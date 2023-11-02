@@ -1,7 +1,7 @@
                 import java.util.ArrayList;
  
 public class Knapsack {
-
+ 
     public static class Node {
         public int initialIndex; 
         public int size;
